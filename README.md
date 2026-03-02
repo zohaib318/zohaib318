@@ -57,8 +57,8 @@ Flask | REST APIs | Render | Railway | Git | Docker (Learning)
 
 ## 🌍 Connect With Me
 
-🔗 LinkedIn: https://linkedin.com/in/YOUR-LINK-HERE  
-📧 Email: your.email@example.com  
+🔗 LinkedIn: www.linkedin.com/in/zuhaib-khan-183840275  
+📧 Email: zohaib318.k@gmail.com  
 
 ---
 
