@@ -49,7 +49,7 @@ Flask | REST APIs | Render | Railway | Git | Docker (Learning)
 
 ## 📊 GitHub Stats
 
-![Zohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=zohaib318&show_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app/api?username=zohaib318&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=zohaib318&theme=radical)
 
