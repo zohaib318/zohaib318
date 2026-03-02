@@ -75,12 +75,14 @@ Upload dataset → automated preprocessing → model training → evaluation —
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangChain-000000?style=flat-square)
+![AutoGen](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 ---
 
 ## 📊 GitHub Analytics
 
-![Zohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=zohaib318&show_icons=true&theme=radical)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=zohaib318&theme=radical)
 
